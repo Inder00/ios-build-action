@@ -1,5 +1,7 @@
 name: "iOS Build Action SDKs"
 description: "Build iOS project (.xcodeproj, .xcworkspace), and export ipa"
+icon: "smartphone"
+color: "white"
 inputs:
   p12-key-base64:
     description: "Base64 encoded p12 key"
